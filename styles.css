@@ -11,6 +11,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0px
 }
+hr{
+    margin: 2rem 0rem;
+}
 
 /** container **/
 
@@ -74,4 +77,31 @@ body {
 }
 .hero .hero-header .heading-inverted {
     color: var(--primary-color);
+}
+
+
+/** container *//
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+
+/**section **/
+
+.section {
+
+    padding: 2rem;
+}
+.section h1{
+    text-align: center;
+}
+.ow{
+    background-color: var(--off-white);
+}
+.section p {
+    text-align: center;
+}
+.section span{
+   font-weight: bold;
 }
