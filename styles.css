@@ -51,4 +51,27 @@ body {
     box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem , 1rem;
+    color: whitesmoke;
+    padding-left: 2rem;
+    margin-left: 2rem;
+}
+
+/** Hero **/
+
+.hero {
+    padding: 2rem;
+    padding-top: 5rem;
+}
+.hero .hero-img {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+.hero .hero-header{
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+}
+.hero .hero-header .heading-inverted {
+    color: var(--primary-color);
 }
