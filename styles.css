@@ -36,6 +36,12 @@ hr{
 .navigation .nav-brand {
     font-weight: bold;
 }
+.navigation .link-active {
+    font-weight: bold;
+}
+.navigation .link {
+    color: white;
+}
 
 /**list **/
 
@@ -53,10 +59,17 @@ hr{
 .link {
     box-sizing: border-box;
     text-decoration: none;
-    padding: 0.5rem , 1rem;
-    color: whitesmoke;
-    padding-left: 2rem;
-    margin-left: 2rem;
+    padding: 0.5rem 1rem;
+}
+.link-primary {
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
+}
+.link-secondary{
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
 }
 
 /** Hero **/
@@ -104,4 +117,28 @@ hr{
 }
 .section span{
    font-weight: bold;
+}
+
+
+/** footer **/
+
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+ .footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer .link{
+    color: white;
+    font-weight: bold;
+}
+.footer ul {
+    padding-inline-start: 0px;
 }
