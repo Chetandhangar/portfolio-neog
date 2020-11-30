@@ -14,7 +14,7 @@
 
 <hr>
 
-<img src="/imgaes/projects.png"/>
+<img src="/images/projects.png"/>
 
 <hr>
 
