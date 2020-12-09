@@ -142,3 +142,21 @@ hr{
 .footer ul {
     padding-inline-start: 0px;
 }
+
+/** social-button**/
+.social-icons {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .social-github {
+    background: var(--primary-color);
+    color: white;
+  }
+  .social-linkdin{
+      background-color: var(--primary-color);
+      color: white;
+  }
