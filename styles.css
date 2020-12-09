@@ -145,18 +145,11 @@ hr{
 
 /** social-button**/
 .social-icons {
-    padding: 20px;
+    
     font-size: 30px;
-    width: 50px;
-    text-align: center;
+    height: 10%;
+    width: 40px;
     text-decoration: none;
     border-radius: 50%;
   }
-  .social-github {
-    background: var(--primary-color);
-    color: white;
-  }
-  .social-linkdin{
-      background-color: var(--primary-color);
-      color: white;
-  }
+  
