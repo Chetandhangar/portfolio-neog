@@ -147,11 +147,15 @@ hr{
 
 /** social-button**/
 .social-icons {
-    
+    background-color: white;
     font-size: 30px;
     height: 10%;
     width: 40px;
     text-decoration: none;
     border-radius: 50%;
+  }
+  .socail-twitter{
+      color: white;
+      background-color: white;
   }
   
