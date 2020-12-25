@@ -10,12 +10,4 @@
 
 <p>You can also check out the code to make one for you as well. Do star on repo.</p>
 
-<img src="/images/home.png"/>
-
-<hr>
-
-<img src="/images/projects.png"/>
-
-<hr>
-
-<img src="/images/blogs.png"/>
+To visit my portfolio <a href="https://dhangarchetan.netlify.app/">Click Here</a>
